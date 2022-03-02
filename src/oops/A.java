@@ -8,6 +8,7 @@ public class A
 	public void m1()
 	{
 		System.out.println("M1 of A");
+		System.out.println("hello");
 	}
 	public void m2() 
 	{
